@@ -123,8 +123,8 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## 📩 Contact
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/viktoriali/)](#)
+## Contact
+- **LinkedIn:** [[ViktoriaLi](https://www.linkedin.com/in/viktoriali/)](#)
 
 ---
 
