@@ -13,12 +13,12 @@ Welcome to my portfolio! Here, you'll find my projects, work experience, and tec
 
 ---
 
-## 🔹 About Me
+## About Me
 I have over 2 years of experience in web and mobile testing and 3+ years in iOS development. My background in Swift programming has provided me with a deep understanding of the development process, enhancing my software testing capabilities. I'm also passionate about AI and use it to automate daily tasks and explore creative tools like AI-generated graphics and audio.
 
 ---
 
-## 💼 Experience
+## Experience
 ### 🔍 Software Tester – test.io (Freelance) | 2024 - Present
 - Exploratory testing of web and mobile applications.
 - Conducting functional, UI and localization tests.
@@ -58,7 +58,7 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## 🛠 Skills
+## Skills
 - **Software Testing:** ISTQB principles, functional testing, regression testing, UI testing, system testing, integration testing, API testing, bug reporting, test case creation.
 - **Programming:** Swift (iOS), iOS SDK, REST API, GraphQL, HTML, CSS, SQL.
 - **Tools**: Jira, Redmine, Asana, Git, TestFlight, App, TestRail, Postman, Charles, Swagger, Firebase, Crashlytics, Chrome Developer Tools, CLI, ScandIt, SourceTree, Fastlane.
@@ -66,7 +66,7 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## 🚀 Projects
+## Projects
 - **SaveRecipe (Personal Project, 2020)**
   * A simple app for saving and managing cooking recipes.
   * Designed and developed independently using Swift.
@@ -83,7 +83,7 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## 🎓 Education
+## Education
 - *** 42 School, Kyiv,2017 – 2020 ** – Programming, web technologies, algorithms, data structures, testing.
   * Intensive programming training following the 42 School methodology.
   * Studied C language, algorithms, and data structures.
@@ -94,7 +94,7 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## 🎓 Courses&Certifications
+## Courses&Certifications
 - **Google Cloud: AI & Data, Google, 2024**
 - **Swift 5 iOS Application Developer, Coursera, 2020**
 - **Creating a Great User Experience for Mobile Apps, FutureLearn, 2020**
@@ -104,7 +104,7 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## 🗣️ Soft Skills
+## Soft Skills
 - Problem-solving and critical thinking.
 - Self-management and adaptability.
 - Team collaboration and communication.
@@ -112,18 +112,18 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-### 📷 Photography & Content Creation
+## Photography & Content Creation
 - **Wiki Loves Monuments 2024** – Uploaded 400+ photos to promote Poland's cultural heritage
 - **Instagram Photography Page** – Sharing architectural and nature photography
 
 ---
 
-## 🌍 Volunteering
+## Volunteering
 - Contributor to **Wikimedia Commons** (promoting cultural heritage through photography)
 
 ---
 
-##📩Contact
+## Contact
 - **LinkedIn:** [[ViktoriaLi](https://www.linkedin.com/in/viktoriali/)]
 
 ---
