@@ -84,13 +84,13 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 ---
 
 ## Education
-- *** 42 School, Kyiv,2017 – 2020 ** – Programming, web technologies, algorithms, data structures, testing.
+- **42 School, Kyiv,2017 – 2020** – Programming, web technologies, algorithms, data structures, testing.
   * Intensive programming training following the 42 School methodology.
   * Studied C language, algorithms, and data structures.
   * Completed projects in cryptography, implementing Base64, DES, MD5, SHA-256, and SHA-512 encryption algorithms in C.
   * Web development and C++ intensives.
   * iOS development track: Created multiple educational iOS projects.
-- *** Kyiv National University of Trade and Economics, 2010 – 2015 – Master's Degree in Management.**
+- **Kyiv National University of Trade and Economics, 2010 – 2015 – Master's Degree in Management.**
 
 ---
 
@@ -112,11 +112,6 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## Photography & Content Creation
-- **Wiki Loves Monuments 2024** – Uploaded 400+ photos to promote Poland's cultural heritage
-- **Instagram Photography Page** – Sharing architectural and nature photography
-
----
 
 ##  Conferences & Events
 - **PL Swift 2022, Wrocław** – Attended a Polish Swift community conference, gaining insights into iOS development trends, best coding practices, and networking with industry professionals.
