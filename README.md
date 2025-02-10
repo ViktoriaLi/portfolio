@@ -1,4 +1,4 @@
-# 📌 Viktoriia Likhotkina – Portfolio
+# 📌 Viktoriia Likhotkina
 
 Welcome to my portfolio! Here, you'll find my projects, work experience, and technical expertise. I am open to new opportunities in mobile development and eager to apply my skills to innovative projects!
 
