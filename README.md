@@ -118,13 +118,21 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## Volunteering
-- Contributor to **Wikimedia Commons** (promoting cultural heritage through photography)
+##  Conferences & Events
+- **PL Swift 2022, Wrocław** – Attended a Polish Swift community conference, gaining insights into iOS development trends, best coding practices, and networking with industry professionals.
+
+---
+
+## Additional Interests & Projects
+- Level UP (since February 2025) – Volunteering as a Graphic Designer (Grafik Projektowy) for a non-profit organization, creating visual materials for educational and social initiatives.
+- Wiki Loves Monuments 2024 – Contributed over 1,200 photos of cultural heritage sites in Poland, Ukraine, and Greece to support global documentation and awareness.
+- E-commerce & Digital Products – Experience in designing, listing, and optimizing digital products for platforms like Amazon KDP and Etsy.
+- Content Creation & Marketing – Practical experience in SEO, social media management, and promotional content for various online projects.
 
 ---
 
 ## Contact
-- **LinkedIn:** [[ViktoriaLi](https://www.linkedin.com/in/viktoriali/)]
+- **LinkedIn:** [ViktoriaLi(https://www.linkedin.com/in/viktoriali/)]
 
 ---
 
