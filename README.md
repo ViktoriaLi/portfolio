@@ -1,25 +1,128 @@
 # 📌 Viktoriia Likhotkina
 
-Welcome to my portfolio! Here, you'll find my projects, work experience, and technical expertise. I am open to new opportunities in mobile development and eager to apply my skills to innovative projects!
+Welcome to my Career Profile! Here, you’ll find my professional experience, QA projects, technical skills, certifications, and continuous learning activities.
 
 ## 📜 Table of Contents
+
 - [About Me](#about-me)
+- [Areas of Expertise](#areas-of-expertise)
 - [Experience](#experience)
 - [Skills](#skills)
-- [Projects](#projects)
-- [Volunteering](#volunteering)
-- [Certifications](#certifications)
+- [iOS Development Projects](#ios-development-projects)
+- [Education](#education)
+- [Courses & Certifications](#courses--certifications)
+- [Soft Skills](#soft-skills)
+- [Conferences & Events](#conferences--events)
+- [Additional Activities](#additional-activities)
 - [Contact](#contact)
 
 ---
 
 ## About Me
-I have over 2 years of experience in web and mobile testing and 3+ years in iOS development. My background in Swift programming has provided me with a deep understanding of the development process, enhancing my software testing capabilities. I'm also passionate about AI and use it to automate daily tasks and explore creative tools like AI-generated graphics and audio.
+QA Engineer with over 3 years of experience in software testing and a previous background in iOS application development.
+
+I specialize in web application testing, combining strong manual QA expertise with accessibility testing (WCAG), compliance-related validation, AI-assisted testing, and experience working on large international e-commerce platforms across multiple European markets.
+
+My engineering background helps me better understand application architecture, identify complex edge cases, and collaborate effectively with development and product teams.
+
+I am particularly interested in the intersection of Quality Engineering, Accessibility, AI, and modern software development practices.
+
+---
+
+## Areas of Expertise
+- Web Testing
+- Accessibility (WCAG)
+- Compliance Testing
+- Localization Testing
+- Cross-browser Testing
+- AI-assisted Testing
+- Exploratory Testing
+- International E-commerce
+- Manual QA
 
 ---
 
 ## Experience
-### 🔍 Software Tester – test.io (Freelance) | 2024 - Present
+
+### 🔍 QA Engineer – AUTODOC | April 2025 – Present
+Testing and quality assurance of one of Europe's largest e-commerce platforms operating across multiple countries and language versions.
+
+### Main project areas
+
+#### 🌐 Responsive Website Launch
+- Tested the launch of a new responsive version of the website.
+- Validated product pages, cookies, layouts, localization, and responsive behavior.
+- Performed regression testing before production releases.
+
+#### ♿ Accessibility (WCAG) Implementation
+- Participated in accessibility testing before the European Accessibility Act requirements became applicable.
+- Verified:
+  - keyboard navigation,
+  - semantic HTML structure,
+  - forms,
+  - focus visibility,
+  - screen reader compatibility,
+  - other WCAG-related requirements.
+- Collaborated closely with developers during issue verification.
+
+#### 🛡️ Compliance Projects
+Participated in testing features introduced to meet regulatory and business compliance requirements, including:
+- Cookie Consent implementation.
+- Deposit / product fund information displayed through dedicated microservices.
+- Localization and legal content updates.
+- Product information consistency across European markets.
+
+#### 🌍 International Localization
+Participated in launching English versions of multiple European websites.
+
+Responsibilities included:
+- localization testing,
+- UI verification,
+- content validation,
+- consistency checks across multiple markets.
+
+#### ⚙️ Microservices Integration
+Tested backend integrations where business functionality was gradually migrated into dedicated microservices.
+
+Verified:
+- product data consistency,
+- frontend rendering,
+- API-driven content,
+- regression after integration.
+
+#### 📱 Landing Pages & A/B Testing
+Tested new landing pages promoting the mobile application.
+
+Responsibilities included:
+- A/B testing validation,
+- localization,
+- UI verification,
+- responsive layouts,
+- user journey validation.
+
+#### 💻 Cross-browser & Cross-platform Testing
+Performed testing using BrowserStack across:
+- multiple browsers,
+- operating systems,
+- desktop and mobile devices.
+
+#### 🤖 AI-assisted Testing
+Integrated Google Gemini into everyday QA workflows for:
+- requirements analysis,
+- exploratory testing,
+- generating testing ideas,
+- edge-case identification,
+- faster bug investigation.
+
+#### 📝 QA Documentation
+Created and maintained:
+- test cases,
+- test scenarios,
+- checklists,
+
+covering both new functionality and regression testing.
+
+### 🔍 Software Tester – test.io (Freelance) | 2024 - 2025
 - Exploratory testing of web and mobile applications.
 - Conducting functional, UI and localization tests.
 - Creating error reports in accordance with platform requirements.
@@ -59,27 +162,36 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 ---
 
 ## Skills
-- **Software Testing:** ISTQB principles, functional testing, regression testing, UI testing, system testing, integration testing, API testing, bug reporting, test case creation.
-- **Programming:** Swift (iOS), iOS SDK, REST API, GraphQL, HTML, CSS, SQL.
-- **Tools**: Jira, Redmine, Asana, Git, TestFlight, App, TestRail, Postman, Charles, Swagger, Firebase, Crashlytics, Chrome Developer Tools, CLI, ScandIt, SourceTree, Fastlane.
-- **Methodologies**: Agile, Scrum.
+
+- **Software Testing:** Functional Testing, Regression Testing, Exploratory Testing, UI Testing, Cross-browser Testing, Cross-platform Testing, Localization Testing, Accessibility Testing (WCAG), Compliance Testing, Test Case Design.
+- **QA Tools:** Jira, BrowserStack, Postman, Chrome DevTools, TestRail, Redmine, Google Gemini.
+- **Web & Technologies:** REST APIs, HTML, CSS, SQL (basic), Git, AWS (basic), CMS.
+- **AI & Modern QA:** AI-assisted Testing, Requirements Analysis, Test Design, Exploratory Testing Support.
+- **Methodologies:** Agile, Scrum.
+- **Languages:** Ukrainian (Native), Polish (B2), English (B2).
 
 ---
 
-## Projects
+## iOS Development Projects
 - **SaveRecipe (Personal Project, 2020)**
-  * A simple app for saving and managing cooking recipes.
-  * Designed and developed independently using Swift.
-  * Implemented CleanSwift architecture.
-  * Published on the App Store, including self-created design, screenshots, and descriptions.
-- **Dating App**: Developed new screens and layouts before the project was discontinued.
-- **Pet Supplie** Online Store: Collaborated with another iOS developer to rebuild an app from scratch with a new design. Integrated Firebase Analytics, Crashlytics, and managed app releases.
-- **Real Estate App**: Developed features for a resident information and payment tracking application.
-- **Fitness Club App**: Maintained and fixed bugs in an existing booking system.
-- **SAP UI Component**: Built an editable table interface for warehouse management, allowing data input customization and checklist creation.
-- **SAP Warehouse Management Prototype**: Created scanning tool prototypes using ScandIt library for large-scale warehouse operations.
-- **CellarEye** (Wine Collection Management): Developed UI for a U.S.-based project that allowed users to track wine collections via camera-based shelf recognition.
-- **DEO** - Medical Training Video Recording application: Fixed bugs and improved functionality in a project for recording and managing surgical procedures for student training.
+  - Independently designed and developed an iOS application for saving and managing recipes.
+  - Implemented CleanSwift architecture.
+  - Published the application on the App Store, including self-created design assets and store materials.
+- **Pet Supplies Online Store**
+  - Rebuilt an iOS application from scratch with a new design.
+  - Integrated REST API, Firebase Analytics, and Crashlytics.
+  - Supported application releases and maintenance.
+- **SAP Warehouse Management Solutions**
+  - Developed UI components for warehouse management workflows.
+  - Created prototypes for barcode scanning functionality using ScandIt library.
+- **CellarEye (Wine Collection Management App)**
+  - Developed UI features for a US-based application focused on wine collection management and camera-based recognition.
+- **DEO Medical Training Application**
+  - Fixed defects and improved functionality of an application for recording and managing surgical training videos.
+- **Real Estate Application**
+  - Developed features for resident information management and payment tracking.
+- **Fitness Club Application**
+  - Maintained an existing booking system and fixed application issues.
 
 ---
 
@@ -94,7 +206,11 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
-## Courses&Certifications
+## Courses & Certifications
+- **Auditing Website Accessibility According to WCAG Standards**  
+  Certes, Warsaw | February – June 2026
+- **Umiejętności Jutra AI 3.0**  
+  Google & SGH Warsaw School of Economics | June 2026
 - **Google Cloud: AI & Data, Google, 2024**
 - **Swift 5 iOS Application Developer, Coursera, 2020**
 - **Creating a Great User Experience for Mobile Apps, FutureLearn, 2020**
@@ -112,17 +228,25 @@ I have over 2 years of experience in web and mobile testing and 3+ years in iOS 
 
 ---
 
+## Conferences & Events
 
-##  Conferences & Events
+- **QA Europe Conference** | April 2026  
+  Participated in a software testing conference focused on QA practices, tools, and industry trends.
+- **QA Summit Poland** | April 2026  
+  Attended sessions focused on software quality, testing approaches, and modern QA challenges.
+- **Innowise Open QA Meetup** | March 2026  
+  Participated in QA community discussions and knowledge sharing.
+- **DataArt IT Camp** | March–April 2026  
+  Participated in technical sessions and professional development activities.
+- **Mindstone Warsaw AI Meetup** | February 2026  
+  Explored practical applications of AI technologies and current AI trends.
 - **PL Swift 2022, Wrocław** – Attended a Polish Swift community conference, gaining insights into iOS development trends, best coding practices, and networking with industry professionals.
 
 ---
 
-## Additional Interests & Projects
+## Additional Activities
 - Level UP (since February 2025) – Volunteering as a Graphic Designer (Grafik Projektowy) for a non-profit organization, creating visual materials for educational and social initiatives.
 - Wiki Loves Monuments 2024 – Contributed over 1,200 photos of cultural heritage sites in Poland, Ukraine, and Greece to support global documentation and awareness.
-- E-commerce & Digital Products – Experience in designing, listing, and optimizing digital products for platforms like Amazon KDP and Etsy.
-- Content Creation & Marketing – Practical experience in SEO, social media management, and promotional content for various online projects.
 
 ---
 
