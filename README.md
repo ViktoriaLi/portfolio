@@ -1,4 +1,5 @@
 # 📌 Viktoriia Likhotkina
+## QA Engineer | Web Testing | Accessibility (WCAG) | AI-Assisted Testing
 
 Welcome to my Career Profile! Here, you’ll find my professional experience, QA projects, technical skills, certifications, and continuous learning activities.
 
