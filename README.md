@@ -45,7 +45,7 @@ I am particularly interested in the intersection of Quality Engineering, Accessi
 
 ## Experience
 
-### 🔍 QA Engineer – AUTODOC | April 2025 – Present
+### 🔍 QA Engineer – AUTODOC | April 2025 – August 2026
 Testing and quality assurance of one of Europe's largest e-commerce platforms operating across multiple countries and language versions.
 
 ### Main project areas
