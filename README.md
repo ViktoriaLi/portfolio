@@ -203,7 +203,7 @@ covering both new functionality and regression testing.
   * Completed projects in cryptography, implementing Base64, DES, MD5, SHA-256, and SHA-512 encryption algorithms in C.
   * Web development and C++ intensives.
   * iOS development track: Created multiple educational iOS projects.
-- **Kyiv National University of Trade and Economics, 2010 – 2015 – Master's Degree in Management.**
+- **Kyiv National University of Trade and Economics, 2010 – 2015 – Master's Degree in Management of business competition.**
 
 ---
 
